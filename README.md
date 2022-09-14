@@ -5,7 +5,7 @@ This project is to establish a website showing works and applications to employe
 Here are the steps to accomplish this project: 
   - Clear struture of the page showing portfolio, contact information & selfintroduction;
   - All the links should work actively & correctly;
-  - Highlight main the work/application;
+  - Highlight main work/application;
 
 Lots of pracstices and studies are needed in order to master HTML & CSS coding lanuages.
       
@@ -14,7 +14,7 @@ N/A
 
 ## Usage
 Scan the navigation bar of the webpage, viewer can easily access the section they want.  
-![Screenshot of the used image](assets/images/usageimage.png)  
+![Screenshot of the used image](assets/img/screencapture-file-Users-kayexie-Desktop-new-module-two-challenge-index-html-2022-09-14-16_23_44.png)  
 
 ## Credits
 N/A
